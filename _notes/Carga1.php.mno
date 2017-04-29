@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IdAlumno;datatype:int,name:IdMateria;datatype:int,name:IdMesaFinal;datatype:int,name:AlumnoNombre;datatype:string,name:MateriaDescripcion;datatype:string,name:fecha1;datatype:datetime,name:fecha2;datatype:datetime,name:fecha3;datatype:datetime,name:FechaSeleccionada;datatype:int" />
+</info>
